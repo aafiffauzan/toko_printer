@@ -1,0 +1,51 @@
+body {
+    background-image: url(https://www.fabbyweb.com/wp-content/uploads/2021/06/ecommerce-design-min.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+
+.container {
+    width: 300px;
+    height: 530px;
+    background-image: url( https://media.istockphoto.com/photos/summer-blue-water-wave-abstract-or-natural-bubble-texture-background-picture-id1218527074?k=20&m=1218527074&s=170667a&w=0&h=bZVvVdGXsvDftbHcLAQrnG-HT-n3_onwhNXlS8xipwE=);
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h3 {
+    line-height: 2px;
+}
+
+form {
+    margin-top: 40px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 30px;
+    background: #f50c0c;
+    color: #fff;
+}
+
+.login {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login a {
+    text-decoration: none;
+    color: #055507;
+}

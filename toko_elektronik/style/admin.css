@@ -1,0 +1,100 @@
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/vector-abstract-background-technology-electronic-illustration-co-vector-abstract-background-technology-electronic-illustration-119405148.jpg);
+}
+
+.sidebar {
+    width: 250px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrxXnrOPP-yn_WLwmiaPv8lHpIJKUNxUBxQ&usqp=CAU);
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.sidebar a {
+    padding: 25px;
+    text-decoration: none;
+    color: #181010;
+    font-size: 30px;
+    display: block;
+}
+.sidebar a:hover {
+    background: #000000;
+    color: #ffffff;
+}
+
+.main {
+    margin-left: 260px;
+    padding-top: 20px;
+    font-size: 24px;
+}
+
+table {
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v499-kul-17-abstractbackground_1.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=b17ee07fe474d49357abc378973b0835);
+    margin-top: 30px;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 10px;
+}
+
+a.tambah {
+    padding: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    background: rgb(9, 231, 83);
+}
+
+a.edit {
+    padding: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    background: rgb(8, 4, 247);
+}
+
+a.hapus {
+    padding: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    background: #ff0000;
+}
+
+.box {
+    height: 100%;
+    padding: 20px;
+    background: #5ff892;
+    border-radius: 20px;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    background: #db0404;
+    color: #ffffff;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
